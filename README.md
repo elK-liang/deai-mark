@@ -50,7 +50,7 @@ Each round's defects (11 + 10 + 6 found) are logged with example sentences in [`
 ## Use
 
 ```bash
-npx skills add <your-github-user>/less-ai-tone-academic
+npx skills add elK-liang/less-ai-tone-academic
 ```
 
 Or copy `SKILL.md` as a system prompt in any tool. Feed it a **finished draft**; it touches only whitelisted patterns, preserves every number/citation/hedge/figure callout byte-for-byte, and leaves unmatched sentences untouched.
