@@ -1,4 +1,4 @@
-# less-ai-tone-academic
+# deai-mark
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-a42a25.svg)](LICENSE)
 [![Validation: 3 rounds / 148 docs](https://img.shields.io/badge/validation-3%20rounds%20%C3%97%20148%20held--out-3a7d44.svg)](results/VALIDATION.md)
@@ -75,13 +75,13 @@ Each round found rule defects (11, then 10, then 6, with example sentences in th
 Paste this to your agent:
 
 ```text
-帮我安装这个skill：https://github.com/elK-liang/less-ai-tone-academic
+帮我安装这个skill：https://github.com/elK-liang/deai-mark
 ```
 
 Or install directly:
 
 ```bash
-npx skills add elK-liang/less-ai-tone-academic
+npx skills add elK-liang/deai-mark
 ```
 
 Or copy [`SKILL.md`](SKILL.md) into any tool that accepts custom instructions. Feed it a finished draft. It touches only whitelisted patterns, keeps every number, citation, hedge and figure callout byte-for-byte, and leaves unmatched sentences alone.

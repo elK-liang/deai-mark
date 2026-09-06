@@ -1,5 +1,5 @@
 ---
-name: less-ai-tone-academic
+name: deai-mark
 description: 按明确清单清理英文学术论文（摘要/引言/讨论）中的 AI 生成痕迹。白名单改写：只处理列出的规则；未命中文字逐字保留；统计数字、引用、hedge、方法学表述一律不动。基于 89.7 万词人类语料与三模型 AI 语的配对测量（2026-09，CI 判定）。 De-AI-tone cleanup for English biomedical manuscripts, whitelist rules only, section-specific.
 ---
 

@@ -128,5 +128,5 @@
 
 ### 附：原始数据位置
 
-- README 原文与根目录/assets JSON：`C:\Users\13552\.zcode\workspace\default\less-ai-tone-academic\results\raw\`（文件名 = owner_repo.md / .root.json）
-- 本报告：`C:\Users\13552\.zcode\workspace\default\less-ai-tone-academic\results\README_BENCHMARK.md`
+- README 原文与根目录/assets JSON：`C:\Users\13552\.zcode\workspace\default\deai-mark\results\raw\`（文件名 = owner_repo.md / .root.json）
+- 本报告：`C:\Users\13552\.zcode\workspace\default\deai-mark\results\README_BENCHMARK.md`

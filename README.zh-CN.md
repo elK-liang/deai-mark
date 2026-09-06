@@ -1,4 +1,4 @@
-# less-ai-tone-academic
+# deai-mark
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-a42a25.svg)](LICENSE)
 [![Validation: 3 rounds / 148 docs](https://img.shields.io/badge/validation-3%20rounds%20%C3%97%20148%20held--out-3a7d44.svg)](results/VALIDATION.md)
@@ -75,13 +75,13 @@
 把这句话发给你的 Agent：
 
 ```text
-帮我安装这个skill：https://github.com/elK-liang/less-ai-tone-academic
+帮我安装这个skill：https://github.com/elK-liang/deai-mark
 ```
 
 或直接安装：
 
 ```bash
-npx skills add elK-liang/less-ai-tone-academic
+npx skills add elK-liang/deai-mark
 ```
 
 也可以把 [`SKILL.md`](SKILL.md) 复制进任何支持自定义指令的工具。喂给它一份成稿。它只动白名单内的模式，数字、引用、hedge、图表指代逐字节保留，没命中规则的句子原样放着。
