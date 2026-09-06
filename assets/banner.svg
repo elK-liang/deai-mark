@@ -1,10 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
-  <rect width="1200" height="280" fill="#0d1117"/>
-  <rect x="0" y="0" width="1200" height="6" fill="#58a6ff"/>
-  <text x="60" y="92" font-family="Georgia,serif" font-size="44" fill="#e6edf3" font-weight="bold">less-ai-tone-academic</text>
-  <text x="60" y="140" font-family="Georgia,serif" font-size="21" fill="#8b949e">Evidence-based de-AI ruleset for English biomedical manuscripts</text>
-  <text x="60" y="172" font-family="Consolas,monospace" font-size="16" fill="#58a6ff">879 human papers (89.7k words, CC-BY, 2018–2022) vs 3 model families, paired by article</text>
-  <text x="60" y="196" font-family="Consolas,monospace" font-size="16" fill="#58a6ff">26 candidate features → preregistered thresholds → bootstrap CI → 3 validation rounds (148 held-out)</text>
-  <text x="60" y="240" font-family="Georgia,serif" font-size="17" fill="#3fb950">em-dash 5.1–8.6x | trailing -ing clauses 2.4–6.3x | underscore 17x | "we"-avoidance 0.43x</text>
-  <text x="1130" y="250" font-family="Consolas,monospace" font-size="14" fill="#30363d" text-anchor="end">MIT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="Georgia, 'Times New Roman', serif">
+  <!-- paper -->
+  <rect width="1200" height="320" fill="#fbfaf7"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#a42a25"/>
+  <!-- left: wordmark + headline -->
+  <text x="56" y="58" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2" fill="#8a857c">LESS-AI-TONE-ACADEMIC</text>
+  <text x="56" y="118" font-size="40" fill="#1c1917">AI tells, measured</text>
+  <text x="56" y="164" font-size="40" fill="#1c1917">and removed.</text>
+  <text x="56" y="208" font-size="17" fill="#57534e">A rewrite ruleset for English biomedical</text>
+  <text x="56" y="232" font-size="17" fill="#57534e">manuscripts, built from a paired corpus.</text>
+  <text x="56" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#a42a25">879 human papers</text>
+  <text x="248" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8a857c">3 model families</text>
+  <text x="402" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8a857c">57 operators</text>
+  <text x="522" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8a857c">3 validation rounds</text>
+  <!-- right: the marked-up manuscript line (real corpus example) -->
+  <g>
+    <rect x="664" y="64" width="480" height="192" fill="#ffffff" stroke="#e5e1d8"/>
+    <text x="686" y="92" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#a42a25">BEFORE, FROM THE CORPUS</text>
+    <text x="686" y="124" font-size="15.5" fill="#1c1917" font-style="italic">
+      <tspan x="686" dy="0">Three miRNAs</tspan><tspan fill="#a42a25" text-decoration="line-through">&#8212;miR-145-5p, miR-155-5p,</tspan>
+      <tspan x="686" dy="21"><tspan fill="#a42a25" text-decoration="line-through">and miR-23b-3p&#8212;</tspan>were overexpressed,</tspan>
+      <tspan x="686" dy="21"><tspan fill="#a42a25" text-decoration="line-through">suggesting a tumor-suppressive role.</tspan></tspan>
+    </text>
+    <text x="686" y="212" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#8a857c">AFTER, RULES 1.1 + 1.2</text>
+    <text x="686" y="238" font-size="15.5" fill="#1c1917">Three miRNAs (miR-145-5p, miR-155-5p, and miR-23b-3p)</text>
+    <text x="686" y="259" font-size="15.5" fill="#1c1917">were overexpressed. This fits a tumor-suppressive role.</text>
+  </g>
 </svg>
