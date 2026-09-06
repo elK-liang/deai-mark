@@ -1,28 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="Georgia, 'Times New Roman', serif">
-  <!-- paper -->
-  <rect width="1200" height="320" fill="#fbfaf7"/>
-  <rect x="0" y="0" width="1200" height="6" fill="#a42a25"/>
-  <!-- left: wordmark + headline -->
-  <text x="56" y="58" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2" fill="#8a857c">LESS-AI-TONE-ACADEMIC</text>
-  <text x="56" y="118" font-size="40" fill="#1c1917">AI tells, measured</text>
-  <text x="56" y="164" font-size="40" fill="#1c1917">and removed.</text>
-  <text x="56" y="208" font-size="17" fill="#57534e">A rewrite ruleset for English biomedical</text>
-  <text x="56" y="232" font-size="17" fill="#57534e">manuscripts, built from a paired corpus.</text>
-  <text x="56" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#a42a25">879 human papers</text>
-  <text x="248" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8a857c">3 model families</text>
-  <text x="402" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8a857c">57 operators</text>
-  <text x="522" y="278" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8a857c">3 validation rounds</text>
-  <!-- right: the marked-up manuscript line (real corpus example) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCFBF8"/>
+      <stop offset="1" stop-color="#F3EFE6"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#211E1A"/>
+      <stop offset="1" stop-color="#4B463F"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#paper)"/>
+
+  <!-- faint ruled lines: manuscript paper -->
+  <g stroke="#A42A25" stroke-width="1" opacity="0.045">
+    <path d="M0 120 H1200"/><path d="M0 156 H1200"/><path d="M0 192 H1200"/>
+    <path d="M0 228 H1200"/><path d="M0 264 H1200"/><path d="M0 300 H1200"/><path d="M0 336 H1200"/>
+  </g>
+
+  <!-- quiet geometry -->
+  <circle cx="1150" cy="36" r="175" fill="#A42A25" opacity="0.05"/>
+  <circle cx="1176" cy="12" r="104" fill="none" stroke="#A42A25" stroke-width="2" opacity="0.14"/>
+  <circle cx="668" cy="352" r="130" fill="#6B6459" opacity="0.05"/>
+
+  <!-- left column -->
+  <text x="56" y="74" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="700" letter-spacing="3" fill="#A42A25">EVIDENCE-BASED DE-AI FOR MANUSCRIPTS</text>
+  <path d="M56 90 H418" stroke="#A42A25" stroke-width="3"/>
+  <text x="56" y="152" font-size="43" fill="url(#ink)">AI tells, measured</text>
+  <text x="56" y="200" font-size="43" fill="url(#ink)">and removed.</text>
+  <text x="56" y="240" font-size="16.5" fill="#57534E">A rewrite ruleset for English biomedical prose,</text>
+  <text x="56" y="264" font-size="16.5" fill="#57534E">built from a paired, verifiable corpus.</text>
+  <text x="56" y="306" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#A42A25">879 paired papers</text>
+  <text x="252" y="306" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8A857C">3 model families</text>
+  <text x="404" y="306" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8A857C">57 operators</text>
+  <text x="524" y="306" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#8A857C">3 validation rounds</text>
+
+  <!-- right: the marked-up manuscript line (real held-out corpus example) -->
   <g>
-    <rect x="664" y="64" width="480" height="192" fill="#ffffff" stroke="#e5e1d8"/>
-    <text x="686" y="92" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#a42a25">BEFORE, FROM THE CORPUS</text>
-    <text x="686" y="124" font-size="15.5" fill="#1c1917" font-style="italic">
-      <tspan x="686" dy="0">Three miRNAs</tspan><tspan fill="#a42a25" text-decoration="line-through">&#8212;miR-145-5p, miR-155-5p,</tspan>
-      <tspan x="686" dy="21"><tspan fill="#a42a25" text-decoration="line-through">and miR-23b-3p&#8212;</tspan>were overexpressed,</tspan>
-      <tspan x="686" dy="21"><tspan fill="#a42a25" text-decoration="line-through">suggesting a tumor-suppressive role.</tspan></tspan>
+    <rect x="688" y="52" width="456" height="256" rx="8" fill="#FFFFFF" stroke="#E7E2D8"/>
+    <rect x="688" y="52" width="138" height="24" rx="8" fill="#A42A25"/>
+    <rect x="688" y="64" width="138" height="12" fill="#A42A25"/>
+    <text x="700" y="68" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#FFFFFF">HELD-OUT SAMPLE</text>
+    <text x="710" y="104" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#8A857C">BEFORE</text>
+    <text x="710" y="128" font-size="14.5" fill="#1C1917" font-style="italic">
+      <tspan x="710" dy="0">Three miRNAs</tspan><tspan fill="#A42A25" text-decoration="line-through">&#8212;miR-145-5p, miR-155-5p,</tspan>
+      <tspan x="710" dy="20"><tspan fill="#A42A25" text-decoration="line-through">and miR-23b-3p&#8212;</tspan>were overexpressed,</tspan>
+      <tspan x="710" dy="20"><tspan fill="#A42A25" text-decoration="line-through">suggesting a tumor-suppressive role.</tspan></tspan>
     </text>
-    <text x="686" y="212" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#8a857c">AFTER, RULES 1.1 + 1.2</text>
-    <text x="686" y="238" font-size="15.5" fill="#1c1917">Three miRNAs (miR-145-5p, miR-155-5p, and miR-23b-3p)</text>
-    <text x="686" y="259" font-size="15.5" fill="#1c1917">were overexpressed. This fits a tumor-suppressive role.</text>
+    <path d="M710 212 H1118" stroke="#E7E2D8" stroke-width="1"/>
+    <text x="710" y="236" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#A42A25">AFTER, RULES 1.1 + 1.2</text>
+    <text x="710" y="260" font-size="14.5" fill="#1C1917">Three miRNAs (miR-145-5p, miR-155-5p, and</text>
+    <text x="710" y="280" font-size="14.5" fill="#1C1917">miR-23b-3p) were overexpressed. This fits a</text>
+    <text x="710" y="300" font-size="14.5" fill="#1C1917">tumor-suppressive role.</text>
   </g>
 </svg>
