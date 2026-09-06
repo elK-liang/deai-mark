@@ -1,0 +1,13 @@
+AI-side generation progress   568/630 files   15:38:52
+
+model/section                             progress                       rate       eta  status
+----------------------------------------------------------------------------------------------------
+glm-5.3-flash-zcode-agent/abstract        [######################] 70/70  DONE  ok
+glm-5.3-flash-zcode-agent/introduction    [######################] 70/70  DONE  ok
+glm-5.3-flash-zcode-agent/discussion      [######################] 70/70  DONE  ok
+minimax_minimax-m2.7-free/abstract        [######################] 78/70  DONE  ok
+minimax_minimax-m2.7-free/introduction    [######################] 101/70  DONE  ok
+minimax_minimax-m2.7-free/discussion      [######################] 82/70  DONE  ok
+minimax_minimax-m3-free/abstract          [######################] 97/70  DONE  ok
+minimax_minimax-m3-free/introduction      [......................] 0/70     0.0/m        --  ok
+minimax_minimax-m3-free/discussion        [......................] 0/70     0.0/m        --  ok

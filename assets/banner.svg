@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <rect width="1200" height="280" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#58a6ff"/>
+  <text x="60" y="92" font-family="Georgia,serif" font-size="44" fill="#e6edf3" font-weight="bold">less-ai-tone-academic</text>
+  <text x="60" y="140" font-family="Georgia,serif" font-size="21" fill="#8b949e">Evidence-based de-AI ruleset for English biomedical manuscripts</text>
+  <text x="60" y="172" font-family="Consolas,monospace" font-size="16" fill="#58a6ff">879 human papers (89.7k words, CC-BY, 2018–2022) vs 3 model families, paired by article</text>
+  <text x="60" y="196" font-family="Consolas,monospace" font-size="16" fill="#58a6ff">26 candidate features → preregistered thresholds → bootstrap CI → 3 validation rounds (148 held-out)</text>
+  <text x="60" y="240" font-family="Georgia,serif" font-size="17" fill="#3fb950">em-dash 5.1–8.6x | trailing -ing clauses 2.4–6.3x | underscore 17x | "we"-avoidance 0.43x</text>
+  <text x="1130" y="250" font-family="Consolas,monospace" font-size="14" fill="#30363d" text-anchor="end">MIT</text>
+</svg>

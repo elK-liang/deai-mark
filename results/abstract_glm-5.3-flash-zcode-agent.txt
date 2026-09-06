@@ -1,0 +1,51 @@
+human: 745 docs, 178,776 words
+
+ai:    70 docs, 15,715 words
+
+feature           role    human      ai      R            CI95  judge
+---------------------------------------------------------------------
+ing_clause        rule    1.291   9.144   7.08  [ 5.01, 9.93]  INCLUDE (CI-low>=2)
+underscore        rule    0.017   0.064   3.79      (few hits)  -
+wherein           ctl     0.022   0.064   2.84      (few hits)  -
+semicolon         ctl     1.577   2.482   1.57  [ 0.98, 2.32]  -
+landscape         ctl     0.123   0.191   1.55      (few hits)  -
+passive_rough     ctl    26.010  32.490   1.25  [ 1.04, 1.48]  no signal
+further_studies   rule    0.062   0.064   1.03      (few hits)  no signal
+X_importance_of   rule    0.062   0.064   1.03      (few hits)  no signal
+robust            ctl     0.140   0.127   0.91      (few hits)  no signal
+highlight_v       ctl     0.291   0.191   0.66      (few hits)  -
+we                ctl     4.027   2.418   0.60  [ 0.41, 0.79]  -
+crucial           rule    0.241   0.127   0.53      (few hits)  -
+hedge             ctl     5.823   2.482   0.43  [ 0.29, 0.57]  reverse -> anti-rule
+thereby           rule    0.190   0.064   0.33      (few hits)  reverse -> anti-rule
+collect_end       rule    1.243   0.389   0.31      (few hits)  reverse -> anti-rule
+intricate         rule    0.028   0.000   0.00      (few hits)  reverse -> anti-rule
+pivotal           rule    0.050   0.000   0.00      (few hits)  reverse -> anti-rule
+showcase          rule    0.011   0.000   0.00      (few hits)  reverse -> anti-rule
+holistic          rule    0.011   0.000   0.00      (few hits)  reverse -> anti-rule
+foster            rule    0.028   0.000   0.00      (few hits)  reverse -> anti-rule
+leverage          rule    0.045   0.000   0.00      (few hits)  reverse -> anti-rule
+meticulous        rule    0.006   0.000   0.00      (few hits)  reverse -> anti-rule
+notably           rule    0.050   0.000   0.00      (few hits)  reverse -> anti-rule
+comprehensive     ctl     0.229   0.000   0.00      (few hits)  reverse -> anti-rule
+overallcomma      rule    0.168   0.000   0.00      (few hits)  reverse -> anti-rule
+regarding         rule    0.112   0.000   0.00      (few hits)  reverse -> anti-rule
+play_X_role       rule    0.123   0.000   0.00      (few hits)  reverse -> anti-rule
+pave_the_way      rule    0.017   0.000   0.00      (few hits)  reverse -> anti-rule
+shed_light        rule    0.011   0.000   0.00      (few hits)  reverse -> anti-rule
+in_recent_years   rule    0.034   0.000   0.00      (few hits)  reverse -> anti-rule
+our_knowledge     rule    0.011   0.000   0.00      (few hits)  reverse -> anti-rule
+findings_suggest  rule    0.045   0.000   0.00      (few hits)  reverse -> anti-rule
+not_only_but      rule    0.095   0.000   0.00      (few hits)  reverse -> anti-rule
+promising_avenue  rule    0.028   0.000   0.00      (few hits)  reverse -> anti-rule
+in_this_study     rule    0.576   0.000   0.00      (few hits)  reverse -> anti-rule
+not_X_but_Y       rule    0.006   0.000   0.00      (few hits)  reverse -> anti-rule
+si_signpost       rule    0.024   0.000   0.00      (few hits)  reverse -> anti-rule
+si_however        ctl     0.012   0.000   0.00      (few hits)  reverse -> anti-rule
+si_thus           ctl     0.024   0.000   0.00      (few hits)  reverse -> anti-rule
+em_dash           rule    0.145   0.000   0.00      (few hits)  reverse -> anti-rule
+p_open_this       ctl     2.329   0.000   0.00      (few hits)  reverse -> anti-rule
+p_open_signpost   rule    0.228   0.000   0.00      (few hits)  reverse -> anti-rule
+
+-- per-journal spread (human side) for top candidates --
+ing_clause         groups=17  spread=   5.7x UNSTABLE

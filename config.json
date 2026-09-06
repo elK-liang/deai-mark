@@ -1,0 +1,8 @@
+{
+  "models": {
+    "openrouter": [
+      "minimax/minimax-m3:free",
+      "minimax/minimax-m2.7:free"
+    ]
+  }
+}

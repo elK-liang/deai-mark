@@ -1,0 +1,16 @@
+# secrets & session-local
+.env
+HANDOFF.md
+config.json.bak
+
+# process logs
+gen_*.log
+fetch.log
+logs/
+
+# human-side corpus: CC-BY, refetch via scripts/fetch_corpus.py using manifest.csv
+data/human/
+
+# python
+__pycache__/
+*.pyc

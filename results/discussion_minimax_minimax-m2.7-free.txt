@@ -1,0 +1,64 @@
+human: 681 docs, 689,361 words
+
+ai:    82 docs, 55,358 words
+
+feature           role    human      ai      R            CI95  judge
+---------------------------------------------------------------------
+underscore        rule    0.026   0.723  27.67  [15.76,54.39]  INCLUDE (CI-low>=2)
+pave_the_way      rule    0.001   0.036  24.91      (few hits)  -
+not_X_but_Y       rule    0.003   0.054  18.68      (few hits)  -
+landscape         ctl     0.048   0.632  13.21  [ 6.67,26.89]  (ctl) INCLUDE (CI-low>=2)
+foster            rule    0.012   0.126  10.90  [ 2.56,37.05]  INCLUDE (CI-low>=2)
+bridge_the_gap    rule    0.003   0.018   6.23      (few hits)  -
+em_dash           rule    0.387   2.204   5.69  [ 3.92, 8.32]  INCLUDE (CI-low>=2)
+leverage          rule    0.029   0.163   5.60  [ 1.90,13.75]  cond (CI-low>=1.5)
+thereby           rule    0.186   0.975   5.25  [ 3.71, 7.40]  INCLUDE (CI-low>=2)
+comprehensive     ctl     0.145   0.723   4.98  [ 3.50, 7.30]  (ctl) INCLUDE (CI-low>=2)
+robust            ctl     0.216   0.759   3.51  [ 2.55, 4.92]  (ctl) INCLUDE (CI-low>=2)
+X_importance_of   rule    0.044   0.145   3.32  [ 1.15, 6.85]  -
+holistic          rule    0.006   0.018   3.11      (few hits)  -
+notably           rule    0.036   0.108   2.99  [ 0.94, 7.08]  -
+ing_clause        rule    2.241   5.905   2.64  [ 2.03, 3.27]  INCLUDE (CI-low>=2)
+highlight_v       ctl     0.271   0.705   2.60  [ 1.87, 3.52]  cond (CI-low>=1.5)
+not_only_but      rule    0.158   0.325   2.06  [ 1.17, 3.12]  -
+collect_end       rule    1.305   2.438   1.87  [ 1.39, 2.39]  -
+promising_avenue  rule    0.020   0.036   1.78      (few hits)  -
+hedge             ctl     9.690  12.916   1.33  [ 1.20, 1.46]  -
+further_studies   rule    0.190   0.235   1.24  [ 0.57, 2.14]  no signal
+findings_suggest  rule    0.030   0.036   1.19      (few hits)  no signal
+pivotal           rule    0.064   0.072   1.13      (few hits)  no signal
+regarding         rule    0.194   0.181   0.93  [ 0.39, 1.66]  no signal
+crucial           rule    0.215   0.163   0.76  [ 0.33, 1.26]  -
+passive_rough     ctl    22.008  14.247   0.65  [ 0.57, 0.74]  -
+in_this_study     rule    0.727   0.307   0.42  [ 0.21, 0.70]  reverse -> anti-rule
+semicolon         ctl     2.169   0.813   0.37  [ 0.25, 0.52]  reverse -> anti-rule
+overallcomma      rule    0.110   0.036   0.33      (few hits)  reverse -> anti-rule
+we                ctl     4.440   1.210   0.27  [ 0.21, 0.35]  reverse -> anti-rule
+si_signpost       rule    0.398   0.108   0.27      (few hits)  reverse -> anti-rule
+p_open_comment    rule    1.129   0.228   0.20      (few hits)  reverse -> anti-rule
+delve             rule    0.003   0.000   0.00      (few hits)  reverse -> anti-rule
+intricate         rule    0.006   0.000   0.00      (few hits)  reverse -> anti-rule
+showcase          rule    0.006   0.000   0.00      (few hits)  reverse -> anti-rule
+realm             rule    0.003   0.000   0.00      (few hits)  reverse -> anti-rule
+meticulous        rule    0.003   0.000   0.00      (few hits)  reverse -> anti-rule
+wherein           ctl     0.013   0.000   0.00      (few hits)  reverse -> anti-rule
+play_X_role       rule    0.087   0.000   0.00      (few hits)  reverse -> anti-rule
+shed_light        rule    0.019   0.000   0.00      (few hits)  reverse -> anti-rule
+in_recent_years   rule    0.017   0.000   0.00      (few hits)  reverse -> anti-rule
+our_knowledge     rule    0.019   0.000   0.00      (few hits)  reverse -> anti-rule
+worth_noting      rule    0.035   0.000   0.00      (few hits)  reverse -> anti-rule
+vast_potential    rule    0.003   0.000   0.00      (few hits)  reverse -> anti-rule
+si_however        ctl     0.092   0.000   0.00      (few hits)  reverse -> anti-rule
+si_thus           ctl     0.041   0.000   0.00      (few hits)  reverse -> anti-rule
+p_open_this       ctl     2.397   0.000   0.00      (few hits)  reverse -> anti-rule
+p_open_signpost   rule    2.259   0.000   0.00      (few hits)  reverse -> anti-rule
+
+-- per-journal spread (human side) for top candidates --
+underscore         groups=17  sparse（仅 7 组出现，离散度不定义）
+landscape          groups=17  spread=  14.0x UNSTABLE
+foster             groups=17  sparse（仅 7 组出现，离散度不定义）
+em_dash            groups=17  spread=  57.8x UNSTABLE
+leverage           groups=17  spread=  12.4x UNSTABLE
+thereby            groups=17  spread=   6.1x UNSTABLE
+comprehensive      groups=17  spread=  17.7x UNSTABLE
+robust             groups=17  spread=  11.1x UNSTABLE
