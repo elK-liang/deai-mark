@@ -42,15 +42,19 @@
     <rect x="688" y="64" width="138" height="12" fill="#A42A25"/>
     <text x="700" y="68" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#FFFFFF">HELD-OUT SAMPLE</text>
     <text x="710" y="104" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#8A857C">BEFORE</text>
-    <text x="710" y="128" font-size="14.5" fill="#1C1917" font-style="italic">
-      <tspan x="710" dy="0">Three miRNAs</tspan><tspan fill="#A42A25" text-decoration="line-through">&#8212;miR-145-5p, miR-155-5p,</tspan>
-      <tspan x="710" dy="20"><tspan fill="#A42A25" text-decoration="line-through">and miR-23b-3p&#8212;</tspan>were overexpressed,</tspan>
-      <tspan x="710" dy="20"><tspan fill="#A42A25" text-decoration="line-through">suggesting a tumor-suppressive role.</tspan></tspan>
+    <text x="710" y="127" font-size="14" fill="#1C1917" font-style="italic">
+      <tspan x="710" dy="0">A transient artifact noted in vehicle-treated</tspan>
+      <tspan x="710" dy="18">mutant tumors at day 56 <tspan fill="#A42A25" text-decoration="line-through">underscores the importance of</tspan></tspan>
+      <tspan x="710" dy="18">validating imaging findings with complementary</tspan>
+      <tspan x="710" dy="18">methodologies.</tspan>
     </text>
-    <path d="M710 212 H1118" stroke="#E7E2D8" stroke-width="1"/>
-    <text x="710" y="236" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#A42A25">AFTER, RULES 1.1 + 1.2</text>
-    <text x="710" y="260" font-size="14.5" fill="#1C1917">Three miRNAs (miR-145-5p, miR-155-5p, and</text>
-    <text x="710" y="280" font-size="14.5" fill="#1C1917">miR-23b-3p) were overexpressed. This fits a</text>
-    <text x="710" y="300" font-size="14.5" fill="#1C1917">tumor-suppressive role.</text>
+    <path d="M710 199 H1118" stroke="#E7E2D8" stroke-width="1"/>
+    <text x="710" y="222" font-family="Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#A42A25">AFTER, RULE 4.1</text>
+    <text x="710" y="245" font-size="14" fill="#1C1917">
+      <tspan x="710" dy="0">A transient artifact appeared in the</tspan>
+      <tspan x="710" dy="18">vehicle-treated mutant tumors at day 56, so</tspan>
+      <tspan x="710" dy="18">imaging findings should be validated with</tspan>
+      <tspan x="710" dy="18">complementary methodologies.</tspan>
+    </text>
   </g>
 </svg>
