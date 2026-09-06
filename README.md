@@ -40,6 +40,8 @@ Three model families contributed: MiniMax M2.7 and M3, and a GLM-5.3 agent chann
 A feature became a rule only if its AI-to-human frequency ratio had a bootstrap 95% CI with lower bound at or above 2.0. Twelve control features were preregistered as never-rules to catch misclassifications; four of them flipped (AI uses them more), and the validation report says so rather than quietly promoting them.
 
 ## What the corpus shows
+![What separates AI from human prose](assets/findings.svg)
+
 
 | Tell | AI vs human | Rule |
 |---|---|---|
