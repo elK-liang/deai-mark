@@ -1,0 +1,18 @@
+[
+  {
+    "name": "openai.yaml",
+    "path": "agents/openai.yaml",
+    "sha": "16df2a8e1c788b20bfdf5d3c9a5fa863890fe7bc",
+    "size": 201,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/agents/openai.yaml?ref=main",
+    "html_url": "https://github.com/blader/humanizer/blob/main/agents/openai.yaml",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/blobs/16df2a8e1c788b20bfdf5d3c9a5fa863890fe7bc",
+    "download_url": "https://raw.githubusercontent.com/blader/humanizer/main/agents/openai.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/agents/openai.yaml?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/blobs/16df2a8e1c788b20bfdf5d3c9a5fa863890fe7bc",
+      "html": "https://github.com/blader/humanizer/blob/main/agents/openai.yaml"
+    }
+  }
+]

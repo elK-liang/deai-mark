@@ -1,0 +1,114 @@
+[
+  {
+    "name": "craft-stock-reaction-eval",
+    "path": "demo/craft-stock-reaction-eval",
+    "sha": "3e2741a66ed53932dfd8f0dbbbdc5aea40b7b8c7",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/craft-stock-reaction-eval?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo/craft-stock-reaction-eval",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/3e2741a66ed53932dfd8f0dbbbdc5aea40b7b8c7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/craft-stock-reaction-eval?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/3e2741a66ed53932dfd8f0dbbbdc5aea40b7b8c7",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo/craft-stock-reaction-eval"
+    }
+  },
+  {
+    "name": "story-dashboard.png",
+    "path": "demo/story-dashboard.png",
+    "sha": "46f9ce6a8c38521e8847b7e6e29ad773b68e0020",
+    "size": 181631,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/story-dashboard.png?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/story-dashboard.png",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/46f9ce6a8c38521e8847b7e6e29ad773b68e0020",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/demo/story-dashboard.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/story-dashboard.png?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/46f9ce6a8c38521e8847b7e6e29ad773b68e0020",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/story-dashboard.png"
+    }
+  },
+  {
+    "name": "封面-剑道独尊.png",
+    "path": "demo/封面-剑道独尊.png",
+    "sha": "528f42a81167ea67a5ac578267486c5099a09d7e",
+    "size": 3108895,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E5%B0%81%E9%9D%A2-%E5%89%91%E9%81%93%E7%8B%AC%E5%B0%8A.png?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/%E5%B0%81%E9%9D%A2-%E5%89%91%E9%81%93%E7%8B%AC%E5%B0%8A.png",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/528f42a81167ea67a5ac578267486c5099a09d7e",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/demo/封面-剑道独尊.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E5%B0%81%E9%9D%A2-%E5%89%91%E9%81%93%E7%8B%AC%E5%B0%8A.png?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/528f42a81167ea67a5ac578267486c5099a09d7e",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/%E5%B0%81%E9%9D%A2-%E5%89%91%E9%81%93%E7%8B%AC%E5%B0%8A.png"
+    }
+  },
+  {
+    "name": "拆文库",
+    "path": "demo/拆文库",
+    "sha": "11f4499bb8ee5fdab66f898b8a30abb84197f22c",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E6%8B%86%E6%96%87%E5%BA%93?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo/%E6%8B%86%E6%96%87%E5%BA%93",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/11f4499bb8ee5fdab66f898b8a30abb84197f22c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E6%8B%86%E6%96%87%E5%BA%93?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/11f4499bb8ee5fdab66f898b8a30abb84197f22c",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo/%E6%8B%86%E6%96%87%E5%BA%93"
+    }
+  },
+  {
+    "name": "短篇-曾将爱意私藏.txt",
+    "path": "demo/短篇-曾将爱意私藏.txt",
+    "sha": "c1d7566219b1404eb228fb41b1de2ef721dca3a7",
+    "size": 29694,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E7%9F%AD%E7%AF%87-%E6%9B%BE%E5%B0%86%E7%88%B1%E6%84%8F%E7%A7%81%E8%97%8F.txt?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/%E7%9F%AD%E7%AF%87-%E6%9B%BE%E5%B0%86%E7%88%B1%E6%84%8F%E7%A7%81%E8%97%8F.txt",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/c1d7566219b1404eb228fb41b1de2ef721dca3a7",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/demo/短篇-曾将爱意私藏.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E7%9F%AD%E7%AF%87-%E6%9B%BE%E5%B0%86%E7%88%B1%E6%84%8F%E7%A7%81%E8%97%8F.txt?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/c1d7566219b1404eb228fb41b1de2ef721dca3a7",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/%E7%9F%AD%E7%AF%87-%E6%9B%BE%E5%B0%86%E7%88%B1%E6%84%8F%E7%A7%81%E8%97%8F.txt"
+    }
+  },
+  {
+    "name": "长篇-让你管账号，你高燃混剪炸全网.txt",
+    "path": "demo/长篇-让你管账号，你高燃混剪炸全网.txt",
+    "sha": "ca7c8e57015c561ce1209149a11c49656cabde6e",
+    "size": 147010,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E9%95%BF%E7%AF%87-%E8%AE%A9%E4%BD%A0%E7%AE%A1%E8%B4%A6%E5%8F%B7%EF%BC%8C%E4%BD%A0%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%E7%82%B8%E5%85%A8%E7%BD%91.txt?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/%E9%95%BF%E7%AF%87-%E8%AE%A9%E4%BD%A0%E7%AE%A1%E8%B4%A6%E5%8F%B7%EF%BC%8C%E4%BD%A0%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%E7%82%B8%E5%85%A8%E7%BD%91.txt",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/ca7c8e57015c561ce1209149a11c49656cabde6e",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/demo/长篇-让你管账号，你高燃混剪炸全网.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E9%95%BF%E7%AF%87-%E8%AE%A9%E4%BD%A0%E7%AE%A1%E8%B4%A6%E5%8F%B7%EF%BC%8C%E4%BD%A0%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%E7%82%B8%E5%85%A8%E7%BD%91.txt?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/ca7c8e57015c561ce1209149a11c49656cabde6e",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/demo/%E9%95%BF%E7%AF%87-%E8%AE%A9%E4%BD%A0%E7%AE%A1%E8%B4%A6%E5%8F%B7%EF%BC%8C%E4%BD%A0%E9%AB%98%E7%87%83%E6%B7%B7%E5%89%AA%E7%82%B8%E5%85%A8%E7%BD%91.txt"
+    }
+  },
+  {
+    "name": "长篇",
+    "path": "demo/长篇",
+    "sha": "4186375a29bd047920ce4ddb05c520d7270057c4",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E9%95%BF%E7%AF%87?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo/%E9%95%BF%E7%AF%87",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/4186375a29bd047920ce4ddb05c520d7270057c4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo/%E9%95%BF%E7%AF%87?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/4186375a29bd047920ce4ddb05c520d7270057c4",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo/%E9%95%BF%E7%AF%87"
+    }
+  }
+]

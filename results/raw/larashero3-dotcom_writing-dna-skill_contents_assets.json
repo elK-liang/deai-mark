@@ -1,0 +1,34 @@
+[
+  {
+    "name": "writing-dna-hero-en.png",
+    "path": "assets/writing-dna-hero-en.png",
+    "sha": "c6832c25565cc472113aebb80d352db972317648",
+    "size": 68453,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/assets/writing-dna-hero-en.png?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/assets/writing-dna-hero-en.png",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/c6832c25565cc472113aebb80d352db972317648",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/assets/writing-dna-hero-en.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/assets/writing-dna-hero-en.png?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/c6832c25565cc472113aebb80d352db972317648",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/assets/writing-dna-hero-en.png"
+    }
+  },
+  {
+    "name": "writing-dna-hero-zh.png",
+    "path": "assets/writing-dna-hero-zh.png",
+    "sha": "dffd69b954e019b4751cbc9e9333a411592da427",
+    "size": 65436,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/assets/writing-dna-hero-zh.png?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/assets/writing-dna-hero-zh.png",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/dffd69b954e019b4751cbc9e9333a411592da427",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/assets/writing-dna-hero-zh.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/assets/writing-dna-hero-zh.png?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/dffd69b954e019b4751cbc9e9333a411592da427",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/assets/writing-dna-hero-zh.png"
+    }
+  }
+]

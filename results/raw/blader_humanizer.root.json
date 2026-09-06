@@ -1,0 +1,130 @@
+[
+  {
+    "name": ".claude-plugin",
+    "path": ".claude-plugin",
+    "sha": "eba8836e3f9febafc041c24ad55983eafb42800b",
+    "size": 0,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/.claude-plugin?ref=main",
+    "html_url": "https://github.com/blader/humanizer/tree/main/.claude-plugin",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/trees/eba8836e3f9febafc041c24ad55983eafb42800b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/.claude-plugin?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/trees/eba8836e3f9febafc041c24ad55983eafb42800b",
+      "html": "https://github.com/blader/humanizer/tree/main/.claude-plugin"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "544934705d46c745957f11634c1de3cd98713eb9",
+    "size": 0,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/.github?ref=main",
+    "html_url": "https://github.com/blader/humanizer/tree/main/.github",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/trees/544934705d46c745957f11634c1de3cd98713eb9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/trees/544934705d46c745957f11634c1de3cd98713eb9",
+      "html": "https://github.com/blader/humanizer/tree/main/.github"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "30618899f451667fc5a27e4163df3201f0006382",
+    "size": 2481,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/blader/humanizer/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/blobs/30618899f451667fc5a27e4163df3201f0006382",
+    "download_url": "https://raw.githubusercontent.com/blader/humanizer/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/blobs/30618899f451667fc5a27e4163df3201f0006382",
+      "html": "https://github.com/blader/humanizer/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "625297fb778f32eb39d3a5b97e3e3b611b7304d6",
+    "size": 1066,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/blader/humanizer/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/blobs/625297fb778f32eb39d3a5b97e3e3b611b7304d6",
+    "download_url": "https://raw.githubusercontent.com/blader/humanizer/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/blobs/625297fb778f32eb39d3a5b97e3e3b611b7304d6",
+      "html": "https://github.com/blader/humanizer/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "aea9a0b49385bf16ebaab073bd458f964d13cfc0",
+    "size": 14040,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/README.md?ref=main",
+    "html_url": "https://github.com/blader/humanizer/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/blobs/aea9a0b49385bf16ebaab073bd458f964d13cfc0",
+    "download_url": "https://raw.githubusercontent.com/blader/humanizer/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/blobs/aea9a0b49385bf16ebaab073bd458f964d13cfc0",
+      "html": "https://github.com/blader/humanizer/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SKILL.md",
+    "path": "SKILL.md",
+    "sha": "c9c22422f822f07767ad1b6e79eedccbfe4e9f63",
+    "size": 30409,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/SKILL.md?ref=main",
+    "html_url": "https://github.com/blader/humanizer/blob/main/SKILL.md",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/blobs/c9c22422f822f07767ad1b6e79eedccbfe4e9f63",
+    "download_url": "https://raw.githubusercontent.com/blader/humanizer/main/SKILL.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/SKILL.md?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/blobs/c9c22422f822f07767ad1b6e79eedccbfe4e9f63",
+      "html": "https://github.com/blader/humanizer/blob/main/SKILL.md"
+    }
+  },
+  {
+    "name": "agents",
+    "path": "agents",
+    "sha": "9c228465745a7bfaf1e341f6363425e3fb8ebfd3",
+    "size": 0,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/agents?ref=main",
+    "html_url": "https://github.com/blader/humanizer/tree/main/agents",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/trees/9c228465745a7bfaf1e341f6363425e3fb8ebfd3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/agents?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/trees/9c228465745a7bfaf1e341f6363425e3fb8ebfd3",
+      "html": "https://github.com/blader/humanizer/tree/main/agents"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "f2ccadfc2b3d660deae03d86d5569ba1626736de",
+    "size": 0,
+    "url": "https://api.github.com/repos/blader/humanizer/contents/scripts?ref=main",
+    "html_url": "https://github.com/blader/humanizer/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/blader/humanizer/git/trees/f2ccadfc2b3d660deae03d86d5569ba1626736de",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/blader/humanizer/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/blader/humanizer/git/trees/f2ccadfc2b3d660deae03d86d5569ba1626736de",
+      "html": "https://github.com/blader/humanizer/tree/main/scripts"
+    }
+  }
+]

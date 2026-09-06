@@ -1,0 +1,98 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "2348c91f7a198200e6bba5fdbb4386917bbb542b",
+    "size": 29,
+    "url": "https://api.github.com/repos/KKKKhazix/human-writing/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/KKKKhazix/human-writing/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/2348c91f7a198200e6bba5fdbb4386917bbb542b",
+    "download_url": "https://raw.githubusercontent.com/KKKKhazix/human-writing/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KKKKhazix/human-writing/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/2348c91f7a198200e6bba5fdbb4386917bbb542b",
+      "html": "https://github.com/KKKKhazix/human-writing/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "25c38d89fee3bc61d200b30e7b028c466ae327c7",
+    "size": 2596,
+    "url": "https://api.github.com/repos/KKKKhazix/human-writing/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/KKKKhazix/human-writing/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/25c38d89fee3bc61d200b30e7b028c466ae327c7",
+    "download_url": "https://raw.githubusercontent.com/KKKKhazix/human-writing/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KKKKhazix/human-writing/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/25c38d89fee3bc61d200b30e7b028c466ae327c7",
+      "html": "https://github.com/KKKKhazix/human-writing/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "086fec6289537bb6c5615dd50338ec770c521558",
+    "size": 1089,
+    "url": "https://api.github.com/repos/KKKKhazix/human-writing/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/KKKKhazix/human-writing/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/086fec6289537bb6c5615dd50338ec770c521558",
+    "download_url": "https://raw.githubusercontent.com/KKKKhazix/human-writing/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KKKKhazix/human-writing/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/086fec6289537bb6c5615dd50338ec770c521558",
+      "html": "https://github.com/KKKKhazix/human-writing/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "b1e47207c5f86e1a3e3948f8e6cd176c4d3dc385",
+    "size": 5860,
+    "url": "https://api.github.com/repos/KKKKhazix/human-writing/contents/README.md?ref=main",
+    "html_url": "https://github.com/KKKKhazix/human-writing/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/b1e47207c5f86e1a3e3948f8e6cd176c4d3dc385",
+    "download_url": "https://raw.githubusercontent.com/KKKKhazix/human-writing/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KKKKhazix/human-writing/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/b1e47207c5f86e1a3e3948f8e6cd176c4d3dc385",
+      "html": "https://github.com/KKKKhazix/human-writing/blob/main/README.md"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "assets",
+    "sha": "ca54d265f70c968629836adc59e23e784d9268cb",
+    "size": 0,
+    "url": "https://api.github.com/repos/KKKKhazix/human-writing/contents/assets?ref=main",
+    "html_url": "https://github.com/KKKKhazix/human-writing/tree/main/assets",
+    "git_url": "https://api.github.com/repos/KKKKhazix/human-writing/git/trees/ca54d265f70c968629836adc59e23e784d9268cb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KKKKhazix/human-writing/contents/assets?ref=main",
+      "git": "https://api.github.com/repos/KKKKhazix/human-writing/git/trees/ca54d265f70c968629836adc59e23e784d9268cb",
+      "html": "https://github.com/KKKKhazix/human-writing/tree/main/assets"
+    }
+  },
+  {
+    "name": "human-writing",
+    "path": "human-writing",
+    "sha": "fc6106f433803a95c49dfd8a7d1a2f09af30a772",
+    "size": 0,
+    "url": "https://api.github.com/repos/KKKKhazix/human-writing/contents/human-writing?ref=main",
+    "html_url": "https://github.com/KKKKhazix/human-writing/tree/main/human-writing",
+    "git_url": "https://api.github.com/repos/KKKKhazix/human-writing/git/trees/fc6106f433803a95c49dfd8a7d1a2f09af30a772",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/KKKKhazix/human-writing/contents/human-writing?ref=main",
+      "git": "https://api.github.com/repos/KKKKhazix/human-writing/git/trees/fc6106f433803a95c49dfd8a7d1a2f09af30a772",
+      "html": "https://github.com/KKKKhazix/human-writing/tree/main/human-writing"
+    }
+  }
+]

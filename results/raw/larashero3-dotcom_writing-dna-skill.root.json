@@ -1,0 +1,210 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "466ffc142691d75bcd05701fe0cfe07177770319",
+    "size": 207,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/466ffc142691d75bcd05701fe0cfe07177770319",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/466ffc142691d75bcd05701fe0cfe07177770319",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "a16a636ed4d48f4027c144a2f0b0ee3bef611021",
+    "size": 1151,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/a16a636ed4d48f4027c144a2f0b0ee3bef611021",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/a16a636ed4d48f4027c144a2f0b0ee3bef611021",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "14fac913ccf80234b1848540089a3bbcb6e5283d",
+    "size": 1056,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/14fac913ccf80234b1848540089a3bbcb6e5283d",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/14fac913ccf80234b1848540089a3bbcb6e5283d",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.en.md",
+    "path": "README.en.md",
+    "sha": "ddc1e96ce6ac32cccd7901608332fdd6b9954696",
+    "size": 12415,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/README.en.md?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/README.en.md",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/ddc1e96ce6ac32cccd7901608332fdd6b9954696",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/README.en.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/README.en.md?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/ddc1e96ce6ac32cccd7901608332fdd6b9954696",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/README.en.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "e4db08aca50498e8f7f413cdb073bbaeade0966a",
+    "size": 11698,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/README.md?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/e4db08aca50498e8f7f413cdb073bbaeade0966a",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/e4db08aca50498e8f7f413cdb073bbaeade0966a",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SKILL.md",
+    "path": "SKILL.md",
+    "sha": "7c643bc13216db552f2928416714dc58c079ced1",
+    "size": 14598,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/SKILL.md?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/SKILL.md",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/7c643bc13216db552f2928416714dc58c079ced1",
+    "download_url": "https://raw.githubusercontent.com/larashero3-dotcom/writing-dna-skill/main/SKILL.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/SKILL.md?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/blobs/7c643bc13216db552f2928416714dc58c079ced1",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/blob/main/SKILL.md"
+    }
+  },
+  {
+    "name": "agents",
+    "path": "agents",
+    "sha": "12b357eabdc8d2a0254fef7805777e94234e0240",
+    "size": 0,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/agents?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/agents",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/12b357eabdc8d2a0254fef7805777e94234e0240",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/agents?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/12b357eabdc8d2a0254fef7805777e94234e0240",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/agents"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "assets",
+    "sha": "154488bffe8939626eb41528ac7c9b0051df35b6",
+    "size": 0,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/assets?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/assets",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/154488bffe8939626eb41528ac7c9b0051df35b6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/assets?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/154488bffe8939626eb41528ac7c9b0051df35b6",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/assets"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "872f365d607b0d51759bd43f369d90baf9982f1d",
+    "size": 0,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/docs?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/docs",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/872f365d607b0d51759bd43f369d90baf9982f1d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/872f365d607b0d51759bd43f369d90baf9982f1d",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/docs"
+    }
+  },
+  {
+    "name": "examples",
+    "path": "examples",
+    "sha": "625d741a2ee354137bfa0e3ca7d2b943d295a606",
+    "size": 0,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/examples?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/examples",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/625d741a2ee354137bfa0e3ca7d2b943d295a606",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/examples?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/625d741a2ee354137bfa0e3ca7d2b943d295a606",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/examples"
+    }
+  },
+  {
+    "name": "references",
+    "path": "references",
+    "sha": "86c0a70b4469f167300f920957f29aa05f127b1a",
+    "size": 0,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/references?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/references",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/86c0a70b4469f167300f920957f29aa05f127b1a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/references?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/86c0a70b4469f167300f920957f29aa05f127b1a",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/references"
+    }
+  },
+  {
+    "name": "skills",
+    "path": "skills",
+    "sha": "ffb53968df69803f2c9e564ba5b0fdfd98bc6d06",
+    "size": 0,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/skills?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/skills",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/ffb53968df69803f2c9e564ba5b0fdfd98bc6d06",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/skills?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/ffb53968df69803f2c9e564ba5b0fdfd98bc6d06",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/skills"
+    }
+  },
+  {
+    "name": "templates",
+    "path": "templates",
+    "sha": "055fdda3d205d909124d2fe5d5e7be50f2d1adfd",
+    "size": 0,
+    "url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/templates?ref=main",
+    "html_url": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/templates",
+    "git_url": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/055fdda3d205d909124d2fe5d5e7be50f2d1adfd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/contents/templates?ref=main",
+      "git": "https://api.github.com/repos/larashero3-dotcom/writing-dna-skill/git/trees/055fdda3d205d909124d2fe5d5e7be50f2d1adfd",
+      "html": "https://github.com/larashero3-dotcom/writing-dna-skill/tree/main/templates"
+    }
+  }
+]

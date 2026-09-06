@@ -8,18 +8,34 @@
 
 English | [中文](README.zh-CN.md)
 
-A rewrite ruleset that removes AI writing tells from English biomedical manuscripts. Unlike checklist-style humanizers, every rule here survived a measurement: a paired corpus, preregistered thresholds, and three rounds of held-out validation.
+> The internet's AI-word lists died in 2025. This is what actually separates AI-drafted from human biomedical prose, measured on a paired corpus, and what to leave alone.
 
-- [`SKILL.md`](SKILL.md) carries the rules (v2.2). Install it as an agent skill or paste it as a system prompt.
+A rewrite ruleset for researchers who draft manuscripts with AI and edit by hand, especially when English is a second language. Every rule survived a measurement; every claim about what "AI writing" is comes with a frequency ratio and a confidence interval, not vibes.
+
+- [`SKILL.md`](SKILL.md) carries the rules (v2.2): section-aware whitelists, anti-rules, academic exemptions.
 - [`results/VALIDATION.md`](results/VALIDATION.md) documents three validation rounds on 148 held-out documents, including every defect found and what fixed it.
 - [`PROTOCOL.md`](PROTOCOL.md) froze the thresholds before the AI side was measured.
-- [`data/manifest.csv`](data/manifest.csv) lists all 879 human papers with PMCID, DOI and license, so every number in this repo can be checked independently.
+- [`data/manifest.csv`](data/manifest.csv) lists all 879 human papers with PMCID, DOI and license, so every number here can be checked independently.
+
+## What it does to a paragraph
+
+A real discussion paragraph from the validation corpus (AI-generated, held out). Two rules fire; everything else stays byte-for-byte.
+
+**Before**
+
+> The reproducibility of the wrinkle formation process across more than twenty experiments **underscores** the robustness of this phenomenon, although the number of wrinkles exhibited some biological variability**, likely reflecting minor differences** in initial bacterial distribution, local growth rates, or subtle variations in substrate properties.
+
+**After**
+
+> The reproducibility of the wrinkle formation process across more than twenty experiments **indicates** the robustness of this phenomenon, although the number of wrinkles exhibited some biological variability. **This likely reflects minor differences** in initial bacterial distribution, local growth rates, or subtle variations in substrate properties.
+
+Rule 4.1 replaced the template verb "underscores"; rule 1.2 split the trailing "-ing" result clause into a sentence with a real subject. The hedges ("may", "could", "likely") survive untouched, the numbers survive untouched, and no sentence without a rule match was edited. That restraint is the product.
 
 ## How the corpus was built
 
-The human side is 879 CC-BY papers from 16 journals, published 2018 to mid-2022, before LLM assistance was common. The AI side was generated from the same articles: each model received only the title, keywords and Results section, with no style instructions, and wrote its own abstract, introduction and discussion. Same facts, two origins. Topic confounds drop out of the comparison.
+The human side is 879 CC-BY papers from 16 journals, published 2018 to mid-2022, before LLM assistance was common. The AI side was generated from the same articles: each model received only the title, keywords and Results section, with no style instructions, and wrote its own abstract, introduction and discussion. Same facts, two origins, so topic confounds drop out.
 
-Three model families contributed: MiniMax M2.7 and M3, and a GLM-5.3 agent channel. The 583 generated sections are included in this repo under `data/ai/`.
+Three model families contributed: MiniMax M2.7 and M3, and a GLM-5.3 agent channel. All 583 generated sections ship in this repo under `data/ai/`.
 
 A feature became a rule only if its AI-to-human frequency ratio had a bootstrap 95% CI with lower bound at or above 2.0. Twelve control features were preregistered as never-rules to catch misclassifications; four of them flipped (AI uses them more), and the validation report says so rather than quietly promoting them.
 
@@ -50,15 +66,23 @@ Three independent rounds on fresh, non-overlapping samples (66, 54 and 28 docume
 | Hedges upgraded | 0 | 0 | 0 |
 | Anti-rule violations | 0 | 0 | 0 |
 
-Each round found rule defects (11, then 10, then 6, with example sentences in the report). Each revision was re-validated on new documents in the next round. Nine editing accidents across rounds were all caught by mandatory diff checks, which is why the diff check is a rule.
+Each round found rule defects (11, then 10, then 6, with example sentences in the report). Each revision was re-validated on new documents in the next round. Nine editing accidents across rounds were all caught by mandatory diff checks, which is why the diff check is itself a rule.
 
-## Use
+## Install
+
+Paste this to your agent:
+
+```text
+帮我安装这个skill：https://github.com/elK-liang/less-ai-tone-academic
+```
+
+Or install directly:
 
 ```bash
 npx skills add elK-liang/less-ai-tone-academic
 ```
 
-Or copy `SKILL.md` into any tool that accepts custom instructions. Feed it a finished draft. It touches only whitelisted patterns, keeps every number, citation, hedge and figure callout byte-for-byte, and leaves unmatched sentences alone.
+Or copy [`SKILL.md`](SKILL.md) into any tool that accepts custom instructions. Feed it a finished draft. It touches only whitelisted patterns, keeps every number, citation, hedge and figure callout byte-for-byte, and leaves unmatched sentences alone.
 
 This tool is for authors cleaning their own drafts, consistent with journal AI-disclosure policies. It is not for evading academic-integrity screening.
 
@@ -68,6 +92,27 @@ This tool is for authors cleaning their own drafts, consistent with journal AI-d
 python scripts/fetch_corpus.py        # human side, from Europe PMC via the manifest
 python scripts/generate_ai_side.py   # AI side, facts-only prompts
 python scripts/measure_en.py --human data/human/introductions --ai "data/ai/*/introduction"
+```
+
+## Repository layout
+
+```text
+SKILL.md              the ruleset (v2.2)
+PROTOCOL.md           preregistered thresholds and design
+features/CANDIDATES.md  57 candidate operators, 12 controls
+scripts/
+  fetch_corpus.py     Europe PMC fetcher (human side)
+  generate_ai_side.py facts-only generation harness (AI side)
+  measure_en.py       57 operators, ratios, bootstrap CI
+  clean_ai_text.py    corpus quality gate
+data/
+  ai/                 583 generated sections (shipped)
+  manifest.csv        879 human papers: PMCID, DOI, license
+results/
+  VALIDATION.md       three rounds, defect log, final numbers
+  README_BENCHMARK.md how 6 high-star repos present themselves
+  *_pooled.txt        full measurement tables
+validation*/          before/after pairs from all three rounds
 ```
 
 ## Lineage and limits

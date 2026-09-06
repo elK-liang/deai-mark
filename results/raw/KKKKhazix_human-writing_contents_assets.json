@@ -1,0 +1,18 @@
+[
+  {
+    "name": "readme-cover.svg",
+    "path": "assets/readme-cover.svg",
+    "sha": "10a2825abd20886b17fcd1e7ef4851089a8f2890",
+    "size": 2784,
+    "url": "https://api.github.com/repos/KKKKhazix/human-writing/contents/assets/readme-cover.svg?ref=main",
+    "html_url": "https://github.com/KKKKhazix/human-writing/blob/main/assets/readme-cover.svg",
+    "git_url": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/10a2825abd20886b17fcd1e7ef4851089a8f2890",
+    "download_url": "https://raw.githubusercontent.com/KKKKhazix/human-writing/main/assets/readme-cover.svg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/KKKKhazix/human-writing/contents/assets/readme-cover.svg?ref=main",
+      "git": "https://api.github.com/repos/KKKKhazix/human-writing/git/blobs/10a2825abd20886b17fcd1e7ef4851089a8f2890",
+      "html": "https://github.com/KKKKhazix/human-writing/blob/main/assets/readme-cover.svg"
+    }
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "name": ".agents",
+    "path": ".agents",
+    "sha": "95eaedd5aeae8f9259f37ce2ba43e0885d1a3449",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.agents?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.agents",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/95eaedd5aeae8f9259f37ce2ba43e0885d1a3449",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.agents?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/95eaedd5aeae8f9259f37ce2ba43e0885d1a3449",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.agents"
+    }
+  },
+  {
+    "name": ".claude-plugin",
+    "path": ".claude-plugin",
+    "sha": "be4b141760c00cb911b0bcc9a32472aed1500d41",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.claude-plugin?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.claude-plugin",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/be4b141760c00cb911b0bcc9a32472aed1500d41",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.claude-plugin?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/be4b141760c00cb911b0bcc9a32472aed1500d41",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.claude-plugin"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "57c59887eb7afbc2f965e823a7582b9e5b357b04",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.github?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.github",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/57c59887eb7afbc2f965e823a7582b9e5b357b04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/57c59887eb7afbc2f965e823a7582b9e5b357b04",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "0fceb29f5fc8921741216c9c602b2d9778893fda",
+    "size": 203,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/0fceb29f5fc8921741216c9c602b2d9778893fda",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/0fceb29f5fc8921741216c9c602b2d9778893fda",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".zcode-plugin",
+    "path": ".zcode-plugin",
+    "sha": "b0dcc1063a66c044cdbedc096a4deeb3c30177fe",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.zcode-plugin?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.zcode-plugin",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/b0dcc1063a66c044cdbedc096a4deeb3c30177fe",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/.zcode-plugin?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/b0dcc1063a66c044cdbedc096a4deeb3c30177fe",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/.zcode-plugin"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "6a7c053324803ed3edad85fefe7c7243cf313b2a",
+    "size": 127502,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/6a7c053324803ed3edad85fefe7c7243cf313b2a",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/6a7c053324803ed3edad85fefe7c7243cf313b2a",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "6371110068324880335ed6d4b8b8f291fb5291c1",
+    "size": 25234,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/6371110068324880335ed6d4b8b8f291fb5291c1",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/6371110068324880335ed6d4b8b8f291fb5291c1",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "11efdd9450462ca9ca51d57926a44eca6aee5317",
+    "size": 1081,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/11efdd9450462ca9ca51d57926a44eca6aee5317",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/11efdd9450462ca9ca51d57926a44eca6aee5317",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "862733b474c43cd4e7b833597e79db12284f92d2",
+    "size": 28458,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/README.md?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/862733b474c43cd4e7b833597e79db12284f92d2",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/862733b474c43cd4e7b833597e79db12284f92d2",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/README.md"
+    }
+  },
+  {
+    "name": "README_EN.md",
+    "path": "README_EN.md",
+    "sha": "4e5b7732a3253321dda3ec8de08da2eea2a3eede",
+    "size": 31570,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/README_EN.md?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/README_EN.md",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/4e5b7732a3253321dda3ec8de08da2eea2a3eede",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/README_EN.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/README_EN.md?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/4e5b7732a3253321dda3ec8de08da2eea2a3eede",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/README_EN.md"
+    }
+  },
+  {
+    "name": "demo",
+    "path": "demo",
+    "sha": "de5e54cf4504ff0f598d70cfb138ae5690c7e76c",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/de5e54cf4504ff0f598d70cfb138ae5690c7e76c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/demo?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/de5e54cf4504ff0f598d70cfb138ae5690c7e76c",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/demo"
+    }
+  },
+  {
+    "name": "marketplace.json",
+    "path": "marketplace.json",
+    "sha": "a781cbf018f5d1992d6ee81349b838522efb086b",
+    "size": 312,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/marketplace.json?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/marketplace.json",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/a781cbf018f5d1992d6ee81349b838522efb086b",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/marketplace.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/marketplace.json?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/a781cbf018f5d1992d6ee81349b838522efb086b",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/marketplace.json"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "42f2b9a7cfcbc2e77eeabc08181e76e35135170f",
+    "size": 2209,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/42f2b9a7cfcbc2e77eeabc08181e76e35135170f",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/42f2b9a7cfcbc2e77eeabc08181e76e35135170f",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "de2668489ea82a8bad2715a8623bbec94fee0f57",
+    "size": 431,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/package.json?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/de2668489ea82a8bad2715a8623bbec94fee0f57",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/de2668489ea82a8bad2715a8623bbec94fee0f57",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/package.json"
+    }
+  },
+  {
+    "name": "playwright.config.mjs",
+    "path": "playwright.config.mjs",
+    "sha": "4acc68fbfed20988fc0c0d369438734d83370653",
+    "size": 926,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/playwright.config.mjs?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/playwright.config.mjs",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/4acc68fbfed20988fc0c0d369438734d83370653",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/playwright.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/playwright.config.mjs?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/4acc68fbfed20988fc0c0d369438734d83370653",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/playwright.config.mjs"
+    }
+  },
+  {
+    "name": "reasonix-plugin.json",
+    "path": "reasonix-plugin.json",
+    "sha": "1dfb2e919466814464e858c452fb9c1dd6ee8912",
+    "size": 184,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/reasonix-plugin.json?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/reasonix-plugin.json",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/1dfb2e919466814464e858c452fb9c1dd6ee8912",
+    "download_url": "https://raw.githubusercontent.com/zenstory-ai/oh-story-claudecode/main/reasonix-plugin.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/reasonix-plugin.json?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/blobs/1dfb2e919466814464e858c452fb9c1dd6ee8912",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/blob/main/reasonix-plugin.json"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "c66fb95ea6519cd13e021780afdb9ee211a44ad9",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/scripts?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/c66fb95ea6519cd13e021780afdb9ee211a44ad9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/c66fb95ea6519cd13e021780afdb9ee211a44ad9",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/scripts"
+    }
+  },
+  {
+    "name": "skills",
+    "path": "skills",
+    "sha": "0c53da74b9f17ab52e24de83e8109958914efca3",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/skills?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/0c53da74b9f17ab52e24de83e8109958914efca3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/skills?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/0c53da74b9f17ab52e24de83e8109958914efca3",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/skills"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "859bff94edc24eadd067e26542f974f24c80c16f",
+    "size": 0,
+    "url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/tests?ref=main",
+    "html_url": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/tests",
+    "git_url": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/859bff94edc24eadd067e26542f974f24c80c16f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/zenstory-ai/oh-story-claudecode/git/trees/859bff94edc24eadd067e26542f974f24c80c16f",
+      "html": "https://github.com/zenstory-ai/oh-story-claudecode/tree/main/tests"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deaify-release-note",
+    "path": "evals/deaify-release-note",
+    "sha": "74560500f5ffd45673851af16dc9acb582b3ec35",
+    "size": 0,
+    "url": "https://api.github.com/repos/Nanako0129/sepia/contents/evals/deaify-release-note?ref=main",
+    "html_url": "https://github.com/Nanako0129/sepia/tree/main/evals/deaify-release-note",
+    "git_url": "https://api.github.com/repos/Nanako0129/sepia/git/trees/74560500f5ffd45673851af16dc9acb582b3ec35",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Nanako0129/sepia/contents/evals/deaify-release-note?ref=main",
+      "git": "https://api.github.com/repos/Nanako0129/sepia/git/trees/74560500f5ffd45673851af16dc9acb582b3ec35",
+      "html": "https://github.com/Nanako0129/sepia/tree/main/evals/deaify-release-note"
+    }
+  }
+]
