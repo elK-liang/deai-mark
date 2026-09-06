@@ -229,3 +229,7 @@ comprehensive review），本轮不列为规则。作者可自行酌情替换，
 - **U+202F 窄空格警告**：部分编辑工具会把 U+202F 静默归一化为普通空格导致
   匹配失败或丢字符——含 U+202F 的句子用显式   转义或脚本编辑，编辑后
   复核该字符计数（第三轮验证实测）
+
+---
+
+规则集方法学参照 [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)（配对语料测量框架）；候选词来源 Kobak et al. 2024 (arXiv:2406.07016)、Liang et al. 2024 (arXiv:2403.07183)。测量与验证细节见仓库 results/。

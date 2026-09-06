@@ -113,6 +113,15 @@ validation*/          三轮验证的 before/after 原文
 
 局限，明说：模型面板是免费档（还没有 GPT / Claude / Gemini 指纹）；一条生成通道是 agent harness 而非裸 API，已如实记录；结论带日期——模型在持续向人类文风收敛；2018–2022 的人类语料无法完全排除早期使用者的 LLM 润色。细节见 PROTOCOL.md。
 
+## 致谢与出处
+
+本项目站在下列工作之上，按影响顺序列出：
+
+- **[larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)**（MIT）：方法学基础——配对语料测量框架、算子设计与抽样质检纪律、反规则概念、公开失败记录的做法。我们的三点升级（逐篇配对、语料公开、置信区间阈值）正是对它自述局限的针对性回应。
+- **超额词汇研究**（`features/CANDIDATES.md` 中 P 类候选词的来源）：Kobak 等（2024）《Delving into ChatGPT usage in academic writing through excess vocabulary》（arXiv:2406.07016）；Liang 等（2024）《Monitoring AI-modified content at scale》（arXiv:2403.07183）；以及学术文本 LLM 词频漂移的相关分析。
+- **[blader/humanizer](https://github.com/blader/humanizer)** 与维基百科 ["Signs of AI writing"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)：英文检查清单传统。其若干模式进入了我们的候选清单——是经过测量后采信或否决，而非直接沿用。
+- **页面设计**：README 结构参考了六个高星仓库的模式提炼（blader/humanizer、zenstory-ai/oh-story-claudecode、larashero3-dotcom/lieflat-charts、KKKKhazix/human-writing、larashero3-dotcom/writing-dna-skill、Nanako0129/sepia），完整调研随仓库发布于 [`results/README_BENCHMARK.md`](results/README_BENCHMARK.md)。
+
 ## 许可
 
 MIT。生成语料按 MIT 发布；人类侧只随附元数据（DOI），原文本可由任何人从 CC-BY 来源重新获取。

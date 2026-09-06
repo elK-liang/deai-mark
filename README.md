@@ -121,6 +121,15 @@ The method follows [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/l
 
 Limits, stated plainly: the model panel is free-tier (no GPT, Claude or Gemini fingerprints yet); one generation channel is an agent harness rather than a bare API, and is documented as such; findings are dated, since models keep converging toward human style; and a 2018-2022 human corpus cannot fully exclude early-adopter LLM polishing. Details in PROTOCOL.md.
 
+## Credits
+
+This project stands on prior work, listed in the order it influenced us:
+
+- **[larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone)** (MIT). The methodological foundation: the paired-corpus measurement framework, operator design and sampling QA discipline, the anti-rule concept, and the practice of publishing failure logs. Our three upgrades (pairing, public corpus, CI thresholds) are deliberate responses to its own stated limitations.
+- **Excess-vocabulary studies**, which seeded the P-marked candidate words in `features/CANDIDATES.md`: Kobak et al. (2024), *Delving into ChatGPT usage in academic writing through excess vocabulary* (arXiv:2406.07016); Liang et al. (2024), *Monitoring AI-modified content at scale* (arXiv:2403.07183); and related analyses of LLM word-frequency drift in scholarly text.
+- **[blader/humanizer](https://github.com/blader/humanizer)** and Wikipedia's ["Signs of AI writing"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), the checklist tradition for English; several of their patterns entered our candidate list and were measured rather than assumed.
+- **Presentation design**: the README structure follows patterns distilled from six high-star repos (blader/humanizer, zenstory-ai/oh-story-claudecode, larashero3-dotcom/lieflat-charts, KKKKhazix/human-writing, larashero3-dotcom/writing-dna-skill, Nanako0129/sepia); the full analysis ships at [`results/README_BENCHMARK.md`](results/README_BENCHMARK.md).
+
 ## License
 
 MIT. The generated corpus ships under MIT; human-side metadata (DOIs) lets anyone refetch the original CC-BY texts.
